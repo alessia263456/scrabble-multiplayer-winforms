@@ -4,7 +4,7 @@ Aplicație desktop pentru jocul **Scrabble în limba română**, realizată în 
 
 Jocul permite desfășurarea unei partide între **doi jucători**, mutările și starea jocului fiind sincronizate prin rețea. Logica principală a jocului, validarea mutărilor și calculul scorului sunt gestionate de server.
 
-![Gameplay](images/gameplay.png)
+![Gameplay](images/gameplay.gif)
 
 ## ✨ Funcționalități
 
