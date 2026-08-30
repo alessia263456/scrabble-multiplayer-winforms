@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrabble_v4_client", "Scrabble_v4_client - Copy - Copy\Scrabble_v4_client.csproj", "{77FD9952-B9F8-401D-AC25-A56895A8AC53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrabble_v4_client", "Scrabble_client\Scrabble_v4_client.csproj", "{77FD9952-B9F8-401D-AC25-A56895A8AC53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrabble_v4_server", "Scrabble_v4_server - Copy - Copy\Scrabble_v4_server.csproj", "{30A8BE23-9FE2-4D51-8719-82E0838BED17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrabble_v4_server", "Scrabble_server\Scrabble_v4_server.csproj", "{30A8BE23-9FE2-4D51-8719-82E0838BED17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
